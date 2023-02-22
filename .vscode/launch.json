@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EnjoidentalApplication<enjoidental>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.enjoidental.EnjoidentalApplication",
+            "projectName": "enjoidental",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
